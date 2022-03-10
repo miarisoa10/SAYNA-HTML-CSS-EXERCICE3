@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", Arial, sans-serif
+}
+
+header {
+    background-image:url(./assets/img/header_bg.jpg) ;
+    padding: 0% 15%;
+    margin: 0%;
+    border-bottom: solid 2px #322f36;
+}
+
+.logo1 {
+    width: 100%;
+}
+
+section.content1{
+    background-color: #27242b;
+    padding-top: 5%;
+}
+@media screen {
+    
+}
